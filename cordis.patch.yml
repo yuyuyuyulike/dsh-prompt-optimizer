@@ -1,0 +1,5 @@
+# One host row mounts the package; the same row is the entry the client
+# module scanner reads (package.json dsh.client) into the browser boot graph.
+- insert:
+    - id: prompt-optimizer
+      name: dsh-prompt-optimizer

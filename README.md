@@ -1,1 +1,48 @@
-IyBkc2gtcHJvbXB0LW9wdGltaXplcgoK57uZIFtEZWVwU2VlayBIYXJuZXNzIChkc2gpXShodHRwczovL3d3dy5ucG1qcy5jb20vcGFja2FnZS9AZGVlcHNlZWstYWkvZHNoKSDovpPlhaXmoYbliqDkuIDkuKrjgIzkuIDplK7kvJjljJbjgI3mjInpkq7vvJrnlKgqKuW9k+WJjeWvueivnemAieaLqeeahOaooeWeiyoq5oqK6I2J56i/5o+Q56S66K+N5pS55YaZ5oiQ5pu05riF5pmw44CB5Y+v5omn6KGM55qE54mI5pys77yM57uT5p6c55u05o6l6KaG55uW6L6T5YWl5qGG44CCCgpPbmUtY2xpY2sgcHJvbXB0IG9wdGltaXplciBmb3IgdGhlIGRzaCBjb21wb3NlciDigJQgcmV3cml0ZXMgeW91ciBkcmFmdCB3aXRoIHRoZSBtb2RlbCBjdXJyZW50bHkgc2VsZWN0ZWQgaW4gdGhlIGNvbnZlcnNhdGlvbi4KCiFb5oyJ6ZKu5L2N5LqO6L6T5YWl5qGG5bel5YW36KGM77yI5qih5Z6L6YCJ5oup5Zmo5bem5L6n77yJ77yM6L+Q6KGM5pe25Zu+5qCH5pKt5pS+44CM5rex5bqm5rGC57Si5Lit44CN5ZCM5qy+5rWB5YWJXShhc3NldHMvc2NyZWVuc2hvdC5wbmcpCgojIyDnibnmgKcKCi0g5Zu+5qCH5YCf55SoIGRzaCDmgJ3ogIPlm77moIfvvJvov5DooYzliqjmlYggPSDjgIzmt7HluqbmsYLntKLkuK0gLyBEZWVwIGRpdmluZ+OAjeWQjOasvua4kOWPmOa1geWFie+8iOWwiumHjSBgcHJlZmVycy1yZWR1Y2VkLW1vdGlvbmDvvIkKLSDkvJjljJbmqKHlnosgPSDlvZPliY3lr7nor53miYDpgInmqKHlnovvvIjmlrDkvJror53mnKrpgInmi6nml7blm57pgIDpu5jorqTmqKHlnovvvIkKLSDkuI3lsZXnpLrku7vkvZXmgJ3ogIPlhoXlrrnvvJrlj6rmlLbpm4YgYHRleHQtZGVsdGFg77yMcmVhc29uaW5nIOa1geebtOaOpeS4ouW8gwotIOS8mOWMluagh+WHhuWFi+WItuOAgemAmueUqO+8muS/neeVmeWOn+aEj+S4juWOn+ivreiogOOAgeS4jeWPkeaYjumcgOaxguOAgeS4jeWBmuinkuiJsuaJrua8lOOAgWBAYCDkuIrkuIvmlofmoIforrAgLyBVUkwgLyDku6PnoIHmoIfor4bnrKbljp/moLfkv53nlZnjgIHlj6rovpPlh7rkvJjljJblkI7nmoTmraPmlocKLSDnuq/liqjmgIEgQ29yZGlzIOaPkuS7tu+8mumbtuS+nei1luOAgeWFjeaehOW7uu+8jOS4pOS4quS7o+eggeaWh+S7tuWNs+WFqOmDqOWunueOsAoKIyMg5a6J6KOFCgrlnKggZHNoIOeahOS7u+aEj+S8muivnemHjOiuqSBBSSDmiafooYzvvIjmiJboh6rlt7HnhaflgZrvvInvvJoKCjEuIOWPluS7k+W6k+mHjOeahCBgY29yZGlzLWRlZmluZS1wYXlsb2FkLmpzb25g77ybCjIuIOiwg+eUqCBgY29yZGlzX2RlZmluZWDvvIzlj4LmlbDljp/moLflj5boh6ror6UgSlNPTu+8mwozLiDnlKjov5Tlm57nmoQgYHBsdWdpbklkYCAvIGBwYWNrYWdlSWRgIOiwgyBgY29yZGlzX3J1bmDvvIhgbW9kZTogInJ1biJg77yJ77ybCjQuIOWcqOmhtemdoueahCBSdW4g5Y2h54mH54K544CM5YWB6K6444CN44CCCgo+IOWKqOaAgeaPkuS7tuWPqua0u+WcqOW9k+WJjSBkc2gg6L+b56iL6YeM77ya6YeN5ZCvIGRzaCDlkI7ph43lpI0gMeKAkzQg5Y2z5Y+v44CC5oOz6K6pIEFJIOebtOaOpeijhe+8jOaKiui/meWPpeivneWPkee7meWug++8mgo+IOOAjOivu+WPliBodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20veXV5dXl1eXVsaWtlL2RzaC1wcm9tcHQtb3B0aW1pemVyL21haW4vY29yZGlzLWRlZmluZS1wYXlsb2FkLmpzb24g5bm255SoIGNvcmRpc19kZWZpbmUgKyBjb3JkaXNfcnVuIOWuieijheOAjeOAggoKIyMg5L2/55SoCgrovpPlhaXmoYblhpnojYnnqL8g4oaSIOeCueOAjOaAneiAg+OAjeWbvuaghyDihpIg5rWB5YWJ5omr5YqoIOKGkiDojYnnqL/ooqvkvJjljJbniYjopobnm5bjgILnqbrojYnnqL/npoHnlKjvvIzlpLHotKXlj5jnuqLlubbmgqzlgZzmmL7npLrljp/lm6DvvIg2IOenkuWQjuaBouWkje+8jOWPr+mHjeivle+8ieOAggoKIyMg5pu05paw6L+t5LujCgrmlLkgYHBsdWdpbi9ob3N0LmNvZGUuanNgIC8gYHBsdWdpbi9jbGllbnQuY29kZS5qc2Ag4oaSIGBub2RlIGJ1aWxkLXBheWxvYWQubWpzYCDph43mlrDnlJ/miJDovb3ojbcg4oaSIOWvueWQjOS4gCBgcGx1Z2luSWRgIOeUqCBga2luZDoiZXhpc3RpbmciYCDlrprkuYnmlrDljIUg4oaSIGBjb3JkaXNfcnVuYCDnlKggYG1vZGU6InVwZGF0ZSJg44CCCgojIyDnlpHpmr4KCumDqOWIhuaWh+acrOW8j+W3peWFt+iwg+eUqOmAmumBk+eahOaooeWei+S8muaKiiBgY29yZGlzX2RlZmluZWAg55qEIGBwbHVnaW5gIOWPguaVsO+8iOmhtuWxgiBgb25lT2Zg44CB5pegIGB0eXBlYO+8ieW9k+Wtl+espuS4sumAgei/m+agoemqjOWZqO+8jOaKpSBgInBsdWdpbiIgbXVzdCBtYXRjaCBleGFjdGx5IG9uZSBvbmVPZiBicmFuY2ggKG1hdGNoZWQgMClg44CC5q2k5pe26L+Q6KGM77yaCgpgYGBzaApub2RlIHRvb2xzL3BhdGNoLXRvb2wtY29yZGlzLm1qcyA8ZHNo5a6J6KOF55uu5b2VPi9ub2RlX21vZHVsZXMvQGRlZXBzZWVrLWFpL2RzaC10b29sLWNvcmRpcy9saWIvaW5kZXguanMKYGBgCgrvvIjohJrmnKzluYLnrYnvvIzpppbmrKHov5DooYzlnKjnm67moIfml4HnlJ/miJAgYC5vcmlnYCDlpIfku73vvJtkc2gg5Y2H57qn5ZCO6ZyA6YeN5pS+5LiA5qyh44CC77yJ54S25ZCO6YeN5ZCvIGRzaCB3ZWLjgIIKCiMjIExpY2Vuc2UKCk1JVAo=
+# dsh-prompt-optimizer
+
+给 [DeepSeek Harness (dsh)](https://www.npmjs.com/package/@deepseek-ai/dsh) 聊天输入框加一个「一键优化」思考按钮：写好草稿 → 点一下 → 用**当前对话所选模型**把提示词优化后直接覆盖回输入框。
+
+![界面位置](assets/screenshot.png)
+
+## 特点
+
+- 按钮在输入框右侧提交键旁，沿用 dsh 思考图标；运行时是「深度求索中」同款流光动效（尊重 `prefers-reduced-motion`）
+- 模型跟随当前对话的选择（含 reasoning effort）；优化请求不进对话上下文，也不展示思考内容（reasoning 流直接丢弃）
+- 优化结果直接覆盖草稿；草稿本来清楚时只做轻量润色
+- 失败时按钮变红，悬停可看原因，6 秒后自动恢复，可重试
+- 优化标准克制、通用：不改写原意、不发明需求、不做角色扮演，`@` 标记 / URL / 代码标识符原样保留
+- 纯静态安装：重启 dsh 不会消失；无第三方依赖、免构建
+
+## 安装
+
+前置：机器上有 `pnpm`，且已在用 `dsh web`（profile `web`）。
+
+```powershell
+# 1. 下载本仓库（zip 解压或 git clone）
+# 2. 把该目录挂到 web profile（绝对路径）
+dsh plugin --profile web add C:\path\to\dsh-prompt-optimizer
+# 3. 重启 dsh web，刷新页面即可看到按钮
+```
+
+## 卸载
+
+```powershell
+dsh plugin --profile web remove dsh-prompt-optimizer
+```
+
+然后重启 dsh web。
+
+## 实现一览
+
+| 文件 | 作用 |
+| --- | --- |
+| `cordis.patch.yml` | 向 profile 组合插入一行宿主 row |
+| `lib/index.js` | 宿主半边：经 `connection.rpc.handle` 注册认证 RPC 通道 `/prompt-optimizer/optimize`，调 `llm.stream` 生成优化结果 |
+| `lib/client.js` | 浏览器半边：module loader 工厂，向 `conversation.input.right` 插槽注册按钮组件 |
+| `package.json` | `dsh.bundle`（宿主补丁层）+ `dsh.client`（浏览器入口）声明 |
+
+浏览器到宿主只有一种报文：`prompt → { ok, text | error }`，不向页面暴露任何宿主对象。
+
+## License
+
+MIT
